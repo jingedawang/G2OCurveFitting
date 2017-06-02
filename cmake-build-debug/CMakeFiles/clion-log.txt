@@ -1,0 +1,5 @@
+/home/wjg/softwares/clion-2017.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/wjg/projects/G2OCurveFitting
+-- g2o include_dir  libs 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wjg/projects/G2OCurveFitting/cmake-build-debug
